@@ -1,1 +1,1 @@
-create_wdf_plugin(DiodeClipper Dclp)
+#create_wdf_plugin(DiodeClipper Dclp)
